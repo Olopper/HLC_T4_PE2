@@ -32,6 +32,9 @@ body {
     height: 8%;
 }
 
+.menu button:hover {
+    background-color: #E2E5E7;
+}
 
 .cuadro {
     margin: 20%;
@@ -50,7 +53,6 @@ body {
 }
 
 .textarea {
-    
     border: 0;
     border-radius: 5px
     
