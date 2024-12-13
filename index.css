@@ -1,0 +1,57 @@
+body {
+    margin: 0%;
+    background-color: #E2E5E7;
+}
+
+.klee-one-regular {
+    font-family: "Klee One", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.container {
+    display: flex;
+    min-height: 100vh;
+}
+
+.menu {
+    background-color: #85CEF0;
+    padding: 5%;
+    width: 15%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 2%;
+}
+
+.menu button {
+    border: 0;
+    border-radius: 5px;
+    margin: 5%;
+    width: 100%;
+    height: 8%;
+}
+
+
+.cuadro {
+    margin: 20%;
+    display: flex;
+    height: 0%;
+    background-color: #E2E5E7;
+}
+
+.btn {
+    margin: 2%;
+    background-color: #F9DC6A;
+    border: 0;
+    border-radius: 5px;
+    width: 20%;
+    
+}
+
+.textarea {
+    
+    border: 0;
+    border-radius: 5px
+    
+}
